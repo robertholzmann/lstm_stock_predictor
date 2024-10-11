@@ -1,0 +1,5 @@
+RMSE: 21.67
+MAE: 17.47
+R-squared: 0.4650
+SMAPE: 3.51%
+Directional Accuracy: 42.42%
