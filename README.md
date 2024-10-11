@@ -276,9 +276,15 @@ The final models' performance was evaluated using SMAPE, with the following resu
 | AMZN       | 2.93          | 6.47       | 5.33       | 48.87        | 0.3025    |
 
 
+![](saved_models/AAPL/plots/actual_vs_predicted.png)
+
 ![](saved_models/GOOG/plots/actual_vs_predicted.png)
 
 ![](saved_models/META/plots/actual_vs_predicted.png)
+
+![](saved_models/MSFT/plots/actual_vs_predicted.png)
+
+![](saved_models/AMZN/plots/actual_vs_predicted.png)
 
 
 After many iterations, I found these hyperparameters to be most successful. 
@@ -397,7 +403,6 @@ The prediction results for the next seven trading days were obtained for each ti
 ---
 
 
-### Justification of Results
 
 ### Overview of Model Performance
 
