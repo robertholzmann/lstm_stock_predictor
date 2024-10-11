@@ -805,7 +805,7 @@ The application includes error handling to manage scenarios such as:
 ## Project Structure
 
 ```plaintext
-stock_predictor/
+lstm_stock_predictor/
 │
 ├── app.py                   # Entry point for the Streamlit web app
 ├── requirements.txt         # Project dependencies
